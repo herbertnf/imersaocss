@@ -27,14 +27,6 @@ body {
   }
 }
 
-/* breakpoint */
-@media (min-width: 1200px) {
-  body {
-    font-size: 20px;
-    background-image: none;
-    background-color: none;
-  }
-}
 
 header {
   height: 100vh;
@@ -45,7 +37,7 @@ header {
 
 
   .menu {
-    background-color:white;
+    background-color: white;
    position: fixed;
    width: 100vw;
    top: 0;
